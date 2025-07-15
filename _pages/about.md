@@ -1,10 +1,16 @@
-
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ---
 layout: home
 title: "Junjie Li, Ph.D."
 description: "Postdoctoral Research Associate at SDSU | Remote Sensing · Deep Learning · Time‑Series Analysis"
 ---
-
 # About Me  
 I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of Excellence (GSCE), South Dakota State University. My work centers on harnessing mid‑to‑high resolution remote sensing data and deep learning techniques for quantitative parameter retrieval, land‑cover classification, and time‑series reconstruction.
 
