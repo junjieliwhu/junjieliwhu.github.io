@@ -47,7 +47,6 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 ---
 
 # Contact  
-- ✉️ junjie.li@sdstate.edu  
-- 🔗 [GitHub/junjieliwhu](https://github.com/junjieliwhu)  
+- ✉️ junjie.li@sdstate.edu   
 - 🌐 https://junjieliwhu.github.io  
 
