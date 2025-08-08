@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me  
+## About Me  
 I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of Excellence (GSCE), South Dakota State University, working with [Prof. Hankui Zhang](https://www.sdstate.edu/directory/hankui-zhang). My work centers on harnessing mid‑to‑high resolution remote sensing data and deep learning techniques for quantitative parameter retrieval, land‑cover classification, and time‑series reconstruction.
 
 **Research Interests:**  
@@ -18,13 +18,13 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ---
 
-# Education  
+## Education  
 - **Ph.D., Photogrammetry & Remote Sensing**, Wuhan University   
 - **B.Sc., Geographic Information Science**, Central China Normal University  
 
 ---
 
-# Selected Publications
+## Selected Publications
 - Wei Xiaobing, **Junjie Li**, Xucai Zhang, Hongkai Gu, Nico Van de Weghe, and Haosheng Huang. "An innovative framework combining a CNN-Transformer multiscale fusion network and spatial analysis for cycleway extraction using street view images." _Sustainable Cities and Society_ (2025): 106384.
 - Wang Xi, Wen Zhang, **Junjie Li**, Zhe Wang, Zhen Zhang, Hui Wang, Yanjiao Song et al. "A normalized small waterbody size transition index for remote sensing drought monitoring." _Journal of Hydrology_ (2025): 133559.
 - Song Yanjiao, Linyi Li, Yun Chen, **Junjie Li**, Zhe Wang, Zhen Zhang, Xi Wang, Wen Zhang, and Lingkui Meng. "GCT-GF: A generative CNN-transformer for multi-modal multi-temporal gap-filling of surface water probability." _International Journal of Applied Earth Observation and Geoinformation_ 141 (2025): 104596.
@@ -38,19 +38,19 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ---
 
-# Conferences  
+## Conferences  
 - 13th International Conference on Agro-Geoinformatics (Agro-Geoinformatics 2025), Boulder, CO, USA  
 - IEEE International Geoscience and Remote Sensing Symposium (IGARSS)  
 
 ---
 
-# Academic Service  
+## Academic Service  
 - **Guest Editor** for _Remote Sensing_, MDPI  
 - **Manuscript Reviewer** for _International Journal of Applied Earth Observation and Geoinformation_, _IEEE TGRS_, _Remote Sensing_, _Journal of Big Data_, _Scientific Reports_, _Computational Urban Science_, _Environmental Monitoring and Assessment_, et al.  
  
 ---
 
-# Contact  
+## Contact  
 - ✉️ junjie.li@sdstate.edu   
 - 🌐 https://junjieliwhu.github.io  
 
