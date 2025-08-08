@@ -24,7 +24,8 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ---
 
-## Selected Publications
+## Selected Publications {#pubs}
+{: .pubs}
 - Wei Xiaobing, **Junjie Li**, Xucai Zhang, Hongkai Gu, Nico Van de Weghe, and Haosheng Huang. "An innovative framework combining a CNN-Transformer multiscale fusion network and spatial analysis for cycleway extraction using street view images." _Sustainable Cities and Society_ (2025): 106384.
 - Wang Xi, Wen Zhang, **Junjie Li**, Zhe Wang, Zhen Zhang, Hui Wang, Yanjiao Song et al. "A normalized small waterbody size transition index for remote sensing drought monitoring." _Journal of Hydrology_ (2025): 133559.
 - Song Yanjiao, Linyi Li, Yun Chen, **Junjie Li**, Zhe Wang, Zhen Zhang, Xi Wang, Wen Zhang, and Lingkui Meng. "GCT-GF: A generative CNN-transformer for multi-modal multi-temporal gap-filling of surface water probability." _International Journal of Applied Earth Observation and Geoinformation_ 141 (2025): 104596.
