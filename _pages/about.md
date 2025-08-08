@@ -33,8 +33,8 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 - Chen Jia, Fengmin Hu, **Junjie Li**, Yijia Xie, Wen Zhang, Changqing Huang, and Lingkui Meng. "Evaluation of SMAP-enhanced products using upscaled soil moisture data based on random forest regression: A case study of the Qinghai–Tibet Plateau, China." _ISPRS International Journal of Geo-Information_ 12, no. 7 (2023): 281.
 - **Li Junjie**, Yizhuo Meng, Yuanxi Li, Qian Cui, Xining Yang, Chongxin Tao, Zhe Wang, Linyi Li, and Wen Zhang. "Accurate water extraction using remote sensing imagery based on normalized difference water index and unsupervised deep learning." _Journal of Hydrology_ 612 (2022): 128202.
 - Tao Chongxin, Yizhuo Meng, **Junjie Li**, Beibei Yang, Fengmin Hu, Yuanxi Li, Changlu Cui, and Wen Zhang. "MSNet: Multispectral semantic segmentation network for remote sensing images." _GIScience & Remote Sensing_ 59, no. 1 (2022): 1177-1198.
-- Li Yuanxi, Wei Yang, **Junjie Li**, Zhen Zhang, and Lingkui Meng. "A novel method for mapping lake bottom topography using the GSW dataset and measured water level." Remote Sensing 14, no. 6 (2022): 1423.
-- **Li Junjie**, Lingkui Meng, Beibei Yang, Chongxin Tao, Linyi Li, and Wen Zhang. "LabelRS: An automated toolbox to make deep learning samples from remote sensing images." Remote Sensing 13, no. 11 (2021): 2064.
+- Li Yuanxi, Wei Yang, **Junjie Li**, Zhen Zhang, and Lingkui Meng. "A novel method for mapping lake bottom topography using the GSW dataset and measured water level." _Remote Sensing_ 14, no. 6 (2022): 1423.
+- **Li Junjie**, Lingkui Meng, Beibei Yang, Chongxin Tao, Linyi Li, and Wen Zhang. "LabelRS: An automated toolbox to make deep learning samples from remote sensing images." _Remote Sensing_ 13, no. 11 (2021): 2064.
 
 ---
 
