@@ -46,7 +46,7 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 ---
 
 ## Academic Service   
-- **Manuscript Reviewer** for _International Journal of Applied Earth Observation and Geoinformation_, _IEEE TGRS_, _Remote Sensing_, _Journal of Big Data_, _Scientific Reports_, _Computational Urban Science_, _Environmental Monitoring and Assessment_, et al.  
+- **Manuscript Reviewer** for _Remote Sensing of Environment_, _International Journal of Applied Earth Observation and Geoinformation_, _IEEE TGRS_, _Remote Sensing_, _International Journal of Digital Earth_, _Remote Sensing Applications: Society and Environment_, _Journal of Big Data_, _Scientific Reports_, _Computational Urban Science_, _Environmental Monitoring and Assessment_, et al.  
  
 ---
 
