@@ -41,7 +41,7 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ## Conferences  
 - Li, J., Zhang, H.K., Roy, D.P., Qui, Y, HLS-GPT: A Generative Pretrained Transformer (GPT) model for accurate Harmonized Landsat and Sentinel-2 (HLS) annual reflectance time series reconstruction, Poster in Science and Applications Enabled by Remote Sensing Data Fusion, Time Series Analysis, and AI, Fall Meeting, AGU, New Orleans LA, 14 - 19 December 2025.
-- 13th International Conference on Agro-Geoinformatics (Agro-Geoinformatics 2025), Boulder, CO, USA  
+- Soil Moisture Retrieval from Harmonized Landsat and Sentinel-2 Time Series Using a Transformer Model. Oral Presentation in 13th International Conference on Agro-Geoinformatics, Boulder, CO, July 7-10, 2025.  
 - IEEE International Geoscience and Remote Sensing Symposium (IGARSS)  
 
 ---
