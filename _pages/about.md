@@ -26,6 +26,7 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ## Selected Publications {#pubs}
 {: .pubs}
+- **Li, Junjie**, Hankui K. Zhang, and David P. Roy. "HLS-GPT: A Generative Pretrained Transformer (GPT) for Continental-Scale NASA Harmonized Landsat and Sentinel-2 (HLS) Reflectance Reconstruction Across All Bands on Arbitrary Dates." _ISPRS Journal of Photogrammetry and Remote Sensing_, 2026 (240): 623-647.
 - Zhang, Hankui K., Yu Shen, Xiaoyang Zhang, **Junjie Li**, Zhengwei Yang, Yijia Xu, Chen Zhang, Liping Di, and David P. Roy. "Robust and timely within-season conterminous United States crop type mapping using Landsat Sentinel-2 time series and the transformer architecture." _Remote Sensing of Environment_ 329 (2025): 114950.
 - Wei Xiaobing, **Junjie Li**, Xucai Zhang, Hongkai Gu, Nico Van de Weghe, and Haosheng Huang. "An innovative framework combining a CNN-Transformer multiscale fusion network and spatial analysis for cycleway extraction using street view images." _Sustainable Cities and Society_ (2025): 106384.
 - Wang Xi, Wen Zhang, **Junjie Li**, Zhe Wang, Zhen Zhang, Hui Wang, Yanjiao Song et al. "A normalized small waterbody size transition index for remote sensing drought monitoring." _Journal of Hydrology_ (2025): 133559.
@@ -42,7 +43,7 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 ## Conferences  
 - Li, J., Zhang, H.K., Roy, D.P., Qui, Y, HLS-GPT: A Generative Pretrained Transformer (GPT) model for accurate Harmonized Landsat and Sentinel-2 (HLS) annual reflectance time series reconstruction, Poster in Science and Applications Enabled by Remote Sensing Data Fusion, Time Series Analysis, and AI, Fall Meeting, AGU, New Orleans LA, 14 - 19 December 2025.
 - Soil Moisture Retrieval from Harmonized Landsat and Sentinel-2 Time Series Using a Transformer Model. Oral Presentation in 13th International Conference on Agro-Geoinformatics, Boulder, CO, July 7-10, 2025.  
-- IEEE International Geoscience and Remote Sensing Symposium (IGARSS)  
+- Li, J., Zhang, H.K. Quasi-daily 30 m Soil Moisture Retrieval from Sentinel-1 and Harmonized Landsat and Sentinel-2 (HLS) Time Series Using a Transformer Model. Poster. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Washington, D.C., Aug 9–14, 2026.
 
 ---
 
