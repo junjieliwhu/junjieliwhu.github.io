@@ -40,10 +40,13 @@ I am a **Postdoctoral Research Associate** at the Geospatial Sciences Center of 
 
 ---
 
-## Conferences  
+## Presentations  
 - Li, J., Zhang, H.K., Roy, D.P., Qui, Y, HLS-GPT: A Generative Pretrained Transformer (GPT) model for accurate Harmonized Landsat and Sentinel-2 (HLS) annual reflectance time series reconstruction, Poster in Science and Applications Enabled by Remote Sensing Data Fusion, Time Series Analysis, and AI, Fall Meeting, AGU, New Orleans LA, 14 - 19 December 2025.
 - Soil Moisture Retrieval from Harmonized Landsat and Sentinel-2 Time Series Using a Transformer Model. Oral Presentation in 13th International Conference on Agro-Geoinformatics, Boulder, CO, July 7-10, 2025.  
 - Li, J., Zhang, H.K. Quasi-daily 30 m Soil Moisture Retrieval from Sentinel-1 and Harmonized Landsat and Sentinel-2 (HLS) Time Series Using a Transformer Model. Poster. 46th IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Washington, D.C., Aug 9–14, 2026.
+- Zhang, H.K., Li, J., Roy, D.P., HLS-GPT: A generative pretrained transformer (GPT) for continental-scale NASA Harmonized Landsat and Sentinel-2 (HLS) reflectance reconstruction across all bands on arbitrary dates, 2026 Fall HLS Face-to-Face Meeting, Annapolis, Maryland (virtual presentation), 9 October 2026.
+- Zhang, H.K., Li, J., Subedi, S., Maimaitijiang, M., Roy, D.P., HLS-GPT: A generative pretrained transformer (GPT) for near-real-time land monitoring using NASA Harmonized Landsat and Sentinel-2 (HLS) data, NASA Earth Science Technology Interchange Meeting 2026, Chicago, Illinois, 23 September 2026.
+- Zhang, H.K., Li, J., Subedi, S., Maimaitijiang, M., Roy, D.P., A foundation model for near-real-time crop monitoring by fusing Landsat and Sentinel-2 time series, NASA Acres Science Meeting, College Park, Maryland, 15-17 July 2026. 
 
 ---
 
